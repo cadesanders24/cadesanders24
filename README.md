@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello
+I am currently in Stat 286 at BYU. Dr. Parrett is super cool. I enjoyed learning about Linux and maneuvering around with the command line. 
 
 <!--
 **cadesanders24/cadesanders24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
