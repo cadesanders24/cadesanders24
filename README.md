@@ -1,6 +1,5 @@
 ## Hello
-I am currently in Stat 286 at BYU. Dr. Parrett is super cool. I enjoyed learning about Linux and maneuvering around with the command line. 
-
+I currently attend BYU graduating December 2026. I am majoring in actuarial science and minoring in information systems.
 <!--
 **cadesanders24/cadesanders24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
